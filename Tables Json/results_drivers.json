@@ -8,9 +8,9 @@
 	},
 	{  
 		"pos":2,
-		"driver":"https://www.formula1.com/content/fom-website/en/championship/teams/Ferrari/_jcr_content/teamCar.img.jpg",
+		"driver":"Sebastian Vettel",
 		"nat":"GER",
-		"car":"Ferrari",
+		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Ferrari/_jcr_content/teamCar.img.jpg",
 		"pts":"66"
 	}
 ]
