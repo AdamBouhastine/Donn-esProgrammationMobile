@@ -3,12 +3,12 @@
 		"pos":1,
 		"driver":"Lewis Hamilton",
 		"nat":"GBR",
-		"car":"Mercedes",
+		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Mercedes/_jcr_content/teamCar.img.jpg",
 		"pts":"70"
 	},
 	{  
 		"pos":2,
-		"driver":"Sebastian Vettel",
+		"driver":"https://www.formula1.com/content/fom-website/en/championship/teams/Ferrari/_jcr_content/teamCar.img.jpg",
 		"nat":"GER",
 		"car":"Ferrari",
 		"pts":"66"
