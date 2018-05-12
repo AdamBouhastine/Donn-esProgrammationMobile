@@ -5,7 +5,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/lewis-hamilton/_jcr_content/countryFlag.img.png/1421323336523.png",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/lewis-hamilton/_jcr_content/helmet.img.jpg/1521198411313.jpg",
         "number":"44",
-		"Team":"Mercedes"
+		"Team":"Mercedes",
 		"Country":"United kingdom",
 		"Podiums":"120",
 		"Points":"2680",
@@ -24,7 +24,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/sebastian-vettel/_jcr_content/countryFlag.img.jpg/1422627083826.jpg",
 		"headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/sebastian-vettel/_jcr_content/helmet.img.jpg/1521198421219.jpg",
 		"number":"5",
-		"Team":"Ferrari"
+		"Team":"Ferrari",
 		"Country":"Germany",
 		"Podiums":"101",
 		"Points":"2491",
@@ -42,7 +42,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/kimi-raikkonen/_jcr_content/countryFlag.img.gif/1423762801690.gif",
 		"headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/kimi-raikkonen/_jcr_content/helmet.img.jpg/1521198417418.jpg",
 		"number":"7",
-		"Team":"Ferrari"
+		"Team":"Ferrari",
 		"Country":"Finland",
 		"Podiums":"94",
 		"Points":"1613",
@@ -60,7 +60,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/valtteri-bottas/_jcr_content/countryFlag.img.gif/1423762801690.gif",
 		"headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/valtteri-bottas/_jcr_content/helmet.img.jpg/1521198406511.jpg",
 		"number":"77",
-		"Team":"Mercedes"
+		"Team":"Mercedes",
 		"Country":"Finland",
 		"Podiums":"24",
 		"Points":"756",
@@ -78,7 +78,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/daniel-ricciardo/_jcr_content/countryFlag.img.jpg/1422627081354.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/daniel-ricciardo/_jcr_content/helmet.img.jpg/1521198418013.jpg",
 		"number":"3",
-		"Team":"Red Bull Racing"
+		"Team":"Red Bull Racing",
 		"Country":"Australia",
 		"Podiums":"28",
 		"Points":"853",
@@ -96,7 +96,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/fernando-alonso/_jcr_content/countryFlag.img.jpg/1422627086043.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/fernando-alonso/_jcr_content/helmet.img.jpg/1521198404058.jpg",
 		"number":"14",
-		"Team":"Mclaren"
+		"Team":"Mclaren",
 		"Country":"Spain",
 		"Podiums":"97",
 		"Points":"1877",
@@ -114,7 +114,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/nico-hulkenberg/_jcr_content/countryFlag.img.jpg/1422627083826.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/nico-hulkenberg/_jcr_content/helmet.img.jpg/1521198413275.jpg",
 		"number":"27",
-		"Team":"Renault"
+		"Team":"Renault",
 		"Country":"Germany",
 		"Podiums":"N/A",
 		"Points":"427",
@@ -132,7 +132,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/max-verstappen/_jcr_content/countryFlag.img.gif/1423744085850.gif",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/max-verstappen/_jcr_content/helmet.img.jpg/1521198420983.jpg",
 		"number":"33",
-		"Team":"Red Bull Racing"
+		"Team":"Red Bull Racing",
 		"Country":"Netherlands",
 		"Podiums":"11",
 		"Points":"439",
@@ -150,7 +150,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/sergio-perez/_jcr_content/countryFlag.img.gif/1423762801900.gif",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/sergio-perez/_jcr_content/helmet.img.jpg/1521198416846.jpg",
 		"number":"11",
-		"Team":"Force India"
+		"Team":"Force India",
 		"Country":"Mexico",
 		"Podiums":"8",
 		"Points":"482",
@@ -168,7 +168,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/carlos-sainz/_jcr_content/countryFlag.img.jpg/1422627086043.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/carlos-sainz/_jcr_content/helmet.img.jpg/1521198418963.jpg",
 		"number":"55",
-		"Team":"Renault"
+		"Team":"Renault",
 		"Country":"Spain",
 		"Podiums":"N/A",
 		"Points":"131",
@@ -186,7 +186,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/pierre-gasly/_jcr_content/countryFlag.img.gif/1423762801429.gif",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/pierre-gasly/_jcr_content/helmet.img.jpg/1521198408458.jpg",
 		"number":"10",
-		"Team":"Toro Rosso"
+		"Team":"Toro Rosso",
 		"Country":"France",
 		"Podiums":"N/A",
 		"Points":"12",
@@ -204,7 +204,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/kevin-magnussen/_jcr_content/countryFlag.img.jpg/1426177193193.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/kevin-magnussen/_jcr_content/helmet.img.jpg/1521198415020.jpg",
 		"number":"20",
-		"Team":"Hass"
+		"Team":"Hass",
 		"Country":"Denmark",
 		"Podiums":"1",
 		"Points":"92",
@@ -222,7 +222,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/charles-leclerc/_jcr_content/countryFlag.img.jpg/1422627085995.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/charles-leclerc/_jcr_content/helmet.img.jpg/1521198414069.jpg",
 		"number":"16",
-		"Team":"Sauber"
+		"Team":"Sauber",
 		"Country":"Monaco",
 		"Podiums":"N/A",
 		"Points":"8",
@@ -240,7 +240,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/stoffel-vandoorne/_jcr_content/countryFlag.img.jpg/1422627081530.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/stoffel-vandoorne/_jcr_content/helmet.img.jpg/1521198420713.jpg",
 		"number":"2",
-		"Team":"Mclaren"
+		"Team":"Mclaren",
 		"Country":"Belgium",
 		"Podiums":"N/A",
 		"Points":"22",
@@ -258,7 +258,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/lance-stroll/_jcr_content/countryFlag.img.jpg/1422627083354.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/lance-stroll/_jcr_content/helmet.img.jpg/1521198420073.jpg",
 		"number":"18",
-		"Team":"Williams"
+		"Team":"Williams",
 		"Country":"Canada",
 		"Podiums":"1",
 		"Points":"44",
@@ -276,7 +276,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/marcus-ericsson/_jcr_content/countryFlag.img.gif/1423744086046.gif",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/marcus-ericsson/_jcr_content/helmet.img.jpg/1521198408085.jpg",
 		"number":"9",
-		"Team":"Sauber"
+		"Team":"Sauber",
 		"Country":"Sweden",
 		"Podiums":"N/A",
 		"Points":"11",
@@ -294,7 +294,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/esteban-ocon/_jcr_content/countryFlag.img.gif/1423762801429.gif",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/esteban-ocon/_jcr_content/helmet.img.jpg/1521198415566.jpg",
 		"number":"31",
-		"Team":"Force India"
+		"Team":"Force India",
 		"Country":"France",
 		"Podiums":"N/A",
 		"Points":"88",
@@ -312,7 +312,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/brendon-hartley/_jcr_content/countryFlag.img.jpg/1508523853250.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/brendon-hartley/_jcr_content/helmet.img.jpg/1521198412398.jpg",
 		"number":"28",
-		"Team":"Toro Rosso"
+		"Team":"Toro Rosso",
 		"Country":"New Zealand",
 		"Podiums":"N/A",
 		"Points":"1",
@@ -331,7 +331,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/romain-grosjean/_jcr_content/countryFlag.img.gif/1423762801429.gif",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/romain-grosjean/_jcr_content/helmet.img.jpg/1521198409879.jpg",
 		"number":"8",
-		"Team":"Hass"
+		"Team":"Hass",
 		"Country":"France",
 		"Podiums":"10",
 		"Points":"344",
@@ -349,7 +349,7 @@
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/sergey-sirotkin/_jcr_content/countryFlag.img.jpg/1422627086003.jpg",
         "headset":"https://www.formula1.com/content/fom-website/en/championship/drivers/sergey-sirotkin/_jcr_content/helmet.img.jpg/1521198419658.jpg",
 		"number":"35",
-		"Team":"Williams"
+		"Team":"Williams",
 		"Country":"Russian Federation",
 		"Podiums":"N/A",
 		"Points":"0",
