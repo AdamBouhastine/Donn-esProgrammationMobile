@@ -1,5 +1,5 @@
 [	
-		{
+	{
 		"name":"Lewis Hamilton",
 		"Face":"https://www.formula1.com/content/fom-website/en/championship/drivers/lewis-hamilton/_jcr_content/image.img.1536.medium.jpg/1521204312905.jpg",
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/lewis-hamilton/_jcr_content/countryFlag.img.png/1421323336523.png",
@@ -14,11 +14,11 @@
 		"Date of birth":"07/01/1985",
 		"Place of birth":"Stevenage,England",
 		"AboutFr":"Un des pilotes les plus talentueux de ce siècle, il en est déjà à son troisième titre en championat.",
-		"AboutEn":"One of the most talented driver in this century, he has already won 3 world championships.",
+		"AboutEn":"One of the most talented driver in this century, he has already won 3 world championships."
 	},	
 	
 	
-		{
+	{
 		"name":"Sebastian Vettel",
 		"Face":"https://www.formula1.com/content/fom-website/en/championship/drivers/sebastian-vettel/_jcr_content/image.img.1536.medium.jpg/1521204232238.jpg",
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/sebastian-vettel/_jcr_content/countryFlag.img.jpg/1422627083826.jpg",
@@ -33,10 +33,10 @@
 		"Date of birth":"03/071987",
 		"Place of birth":"Heppenheim,Germany",
 		"AboutFr":"A peine après avoir eu 20 ans il était déjà un pilote de renomée internationale en devenant le plus jeune pilote à gagner le titre de champion du monde.",
-		"AboutEn":"By his mid-20s he was already the dominant driver of his era, becoming the youngest polesitter, winner and champion in history.",
+		"AboutEn":"By his mid-20s he was already the dominant driver of his era, becoming the youngest polesitter, winner and champion in history."
 	},	
 	
-		{
+	{
 		"name":"Kimi Räikkönen",
 		"Face":"https://www.formula1.com/content/fom-website/en/championship/drivers/kimi-raikkonen/_jcr_content/image.img.1536.medium.jpg/1521204007378.jpg",
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/kimi-raikkonen/_jcr_content/countryFlag.img.gif/1423762801690.gif",
@@ -51,10 +51,9 @@
 		"Date of birth":"17/10/1979",
 		"Place of birth":"Espoo,Finland",
 		"AboutFr":"Considéré comme l'un des pilotes les plus talentueux de sa génération, le chemin de Räikkönen vers le top niveau de la formule 1 a commencé dans le sud de la Finland lorsqu'à 11 ans il faisait du karting.",
-		"AboutEn":"Widely regarded as one of the finest drivers of his generation, Raikkonen’s path to the top of F1 racing began in his hometown of Espoo in southern Finland when, as a sports-mad 11 year-old, he took up karting. ",
+		"AboutEn":"Widely regarded as one of the finest drivers of his generation, Raikkonen’s path to the top of F1 racing began in his hometown of Espoo in southern Finland when, as a sports-mad 11 year-old, he took up karting. "
 	},	
-	
-		{
+	{
 		"name":"Valtteri Bottas",
 		"Face":"https://www.formula1.com/content/fom-website/en/championship/drivers/valtteri-bottas/_jcr_content/image.img.1536.medium.jpg/1521204355212.jpg",
 		"Flag":"https://www.formula1.com/content/fom-website/en/championship/drivers/valtteri-bottas/_jcr_content/countryFlag.img.gif/1423762801690.gif",
@@ -69,7 +68,7 @@
 		"Date of birth":"28/08/1989",
 		"Place of birth":"Nastola,Finland",
 		"AboutFr":"",
-		"AboutEn":"Like so many of his contemporaries, Bottas’ motor racing career began early - he was just six years old when he first stepped into a go-kart and over the next 11 years he won numerous championships in his homeland and Europe.",
+		"AboutEn":"Like so many of his contemporaries, Bottas’ motor racing career began early - he was just six years old when he first stepped into a go-kart and over the next 11 years he won numerous championships in his homeland and Europe."
 	},	
 	
 		{
@@ -87,7 +86,7 @@
 		"Date of birth":"01/07/1989",
 		"Place of birth":"Perth,Australia",
 		"AboutFr":"",
-		"AboutEn":"Already a signed-up member of the Red Bull junior team, Ricciardo progressed to the prestigious British Formula Three championship in 2009 and set about proving that his Formula Renault success wasn’t a one-off.",
+		"AboutEn":"Already a signed-up member of the Red Bull junior team, Ricciardo progressed to the prestigious British Formula Three championship in 2009 and set about proving that his Formula Renault success wasn’t a one-off."
 	},	
 	
 		{
@@ -105,7 +104,7 @@
 		"Date of birth":"29/07/1981",
 		"Place of birth":"Oviedo,Spain",
 		"AboutFr":"",
-		"AboutEn":"Fernando Alonso is the man who ended Michael Schumacher’s Formula 1 reign, and became the then-youngest champion in F1 history.",
+		"AboutEn":"Fernando Alonso is the man who ended Michael Schumacher’s Formula 1 reign, and became the then-youngest champion in F1 history."
 	},	
 	
 		{
@@ -123,7 +122,7 @@
 		"Date of birth":"19/08/1987",
 		"Place of birth":"Emmerich am Rhein, Germany",
 		"AboutFr":"",
-		"AboutEn":"Winning the GP2 crown in his rookie season - a feat only matched by Lewis Hamilton and Nico Rosberg - secured a move into F1 racing, and he duly delivered a shock first pole in an uncompetitive Williams in what was his maiden campaign.",
+		"AboutEn":"Winning the GP2 crown in his rookie season - a feat only matched by Lewis Hamilton and Nico Rosberg - secured a move into F1 racing, and he duly delivered a shock first pole in an uncompetitive Williams in what was his maiden campaign."
 	},	
 	
 		{
@@ -141,7 +140,7 @@
 		"Date of birth":"30/09/1997",
 		"Place of birth":"Hasselt,Belgium",
 		"AboutFr":"",
-		"AboutEn":"Max Emilian Verstappen was born in Hasselt, in the east of Belgium, on September 30, 1997. Motorsport was in his blood: father Jos was competing in Formula 1 racing at the time .",
+		"AboutEn":"Max Emilian Verstappen was born in Hasselt, in the east of Belgium, on September 30, 1997. Motorsport was in his blood: father Jos was competing in Formula 1 racing at the time ."
 	},	
 	
 		{
@@ -159,7 +158,7 @@
 		"Date of birth":"26/01/1990",
 		"Place of birth":"Guadalajara,Mexico",
 		"AboutFr":"",
-		"AboutEn":"Perez began his motorsport in karting, where he won a total of five championships, before making his single-seater debut in the US-based Skip Barber National Championship in 2004.",
+		"AboutEn":"Perez began his motorsport in karting, where he won a total of five championships, before making his single-seater debut in the US-based Skip Barber National Championship in 2004."
 	},	
 	
 		{
@@ -177,7 +176,7 @@
 		"Date of birth":"01/09/1994",
 		"Place of birth":"Madrid,Spain",
 		"AboutFr":"",
-		"AboutEn":"Born in Madrid in 1994, Sainz first got behind the wheel at the age of seven when he began to drive at his father’s indoor karting centre, though it would be a further three years before he started to compete seriously.",
+		"AboutEn":"Born in Madrid in 1994, Sainz first got behind the wheel at the age of seven when he began to drive at his father’s indoor karting centre, though it would be a further three years before he started to compete seriously."
 	},	
 	
 		{
@@ -195,7 +194,7 @@
 		"Date of birth":"07/02/1996",
 		"Place of birth":"Rouen,France",
 		"AboutFr":"",
-		"AboutEn":"The young Pierre also began his career in karts, where he competed from 2006 to 2010 before making his single-seater debut in the French F4 championship, where he finished third overall in an impressive 2011 maiden season.",
+		"AboutEn":"The young Pierre also began his career in karts, where he competed from 2006 to 2010 before making his single-seater debut in the French F4 championship, where he finished third overall in an impressive 2011 maiden season."
 	},	
 	
 		{
@@ -213,7 +212,7 @@
 		"Date of birth":"05/10/1992",
 		"Place of birth":"Roskilde,Denmark",
 		"AboutFr":"",
-		"AboutEn":"Born in the town of Roskilde in October 1992, Kevin began his racing career with success in karts before jumping into single-seaters in 2008. ",
+		"AboutEn":"Born in the town of Roskilde in October 1992, Kevin began his racing career with success in karts before jumping into single-seaters in 2008. "
 	},	
 	
 		{
@@ -231,7 +230,7 @@
 		"Date of birth":"16/10/1997",
 		"Place of birth":"Monte Carlo, Monaco",
 		"AboutFr":"",
-		"AboutEn":"Born on October 16, 1997, Leclerc is barely into his twenties, so it’s fair to say he looks to be firmly on the fast track to success.",
+		"AboutEn":"Born on October 16, 1997, Leclerc is barely into his twenties, so it’s fair to say he looks to be firmly on the fast track to success."
 	},	
 	
 		{
@@ -249,7 +248,7 @@
 		"Date of birth":"26/03/1992",
 		"Place of birth":"Kortrijk,Belgium",
 		"AboutFr":"",
-		"AboutEn":"Born in Kortrijk, Belgium, in 1992, Vandoorne began his motorsport career aged six and earned his first race and championship victories in national karting series, going on to finish runner-up in the KF2 World Cup in 2009. ",
+		"AboutEn":"Born in Kortrijk, Belgium, in 1992, Vandoorne began his motorsport career aged six and earned his first race and championship victories in national karting series, going on to finish runner-up in the KF2 World Cup in 2009. "
 	},	
 	
 		{
@@ -267,7 +266,7 @@
 		"Date of birth":"29/10/1998",
 		"Place of birth":"Montreal,Canada",
 		"AboutFr":"",
-		"AboutEn":"Stroll stepped up to single-seaters in 2014, competing in the Florida Winter Series before winning the Italian Formula 4 championship at his first attempt.",
+		"AboutEn":"Stroll stepped up to single-seaters in 2014, competing in the Florida Winter Series before winning the Italian Formula 4 championship at his first attempt."
 	},	
 	
 		{
@@ -285,7 +284,7 @@
 		"Date of birth":"02/09/1990",
 		"Place of birth":"Kumla,Sweden",
 		"AboutFr":"",
-		"AboutEn":"Born in the city of Kumla on September 2, 1990, like many of his contemporaries Ericsson cut his racing teeth in karts, quickly accumulating a host of trophies.",
+		"AboutEn":"Born in the city of Kumla on September 2, 1990, like many of his contemporaries Ericsson cut his racing teeth in karts, quickly accumulating a host of trophies."
 	},	
 	
 		{
@@ -303,7 +302,7 @@
 		"Date of birth":"17/09/1996",
 		"Place of birth":"Evreux,Normandy",
 		"AboutFr":"",
-		"AboutEn":"Born in Evreux, Normandy in 1996, Ocon predictably began his career with success in karting, before progressing to single-seaters in 2012, scoring three podium finishes in Formula Renault 2.0 with Koiranen Motorsport.",
+		"AboutEn":"Born in Evreux, Normandy in 1996, Ocon predictably began his career with success in karting, before progressing to single-seaters in 2012, scoring three podium finishes in Formula Renault 2.0 with Koiranen Motorsport."
 	},	
 	
 		{
@@ -321,7 +320,7 @@
 		"Date of birth":"10/11/1989",
 		"Place of birth":"Palmerston North, New Zealand",
 		"AboutFr":"",
-		"AboutEn":"Faced with a similar situation, many a driver might crumble or simply disappear from the racing stratosphere. But Hartley, perhaps infused with the same dogged determination that countrymen Bruce McLaren and Denny Hulme had shown when they made the same trip from New Zealand to Europe in the late 1950s, refused to give up on his racing dreams.",
+		"AboutEn":"Faced with a similar situation, many a driver might crumble or simply disappear from the racing stratosphere. But Hartley, perhaps infused with the same dogged determination that countrymen Bruce McLaren and Denny Hulme had shown when they made the same trip from New Zealand to Europe in the late 1950s, refused to give up on his racing dreams."
 	},	
 	
 	
@@ -340,7 +339,7 @@
 		"Date of birth":"25/08/1995",
 		"Place of birth":"Moscow,Russia",
 		"AboutFr":"",
-		"AboutEn":"The Frenchman now has several Grand Prix podiums to his name, and a burgeoning reputation as a team leader. Only wins and a full title challenge elude a man regarded in many quarters as a potential world champion in waiting.",
+		"AboutEn":"The Frenchman now has several Grand Prix podiums to his name, and a burgeoning reputation as a team leader. Only wins and a full title challenge elude a man regarded in many quarters as a potential world champion in waiting."
 	},	
 	
 		{
@@ -358,7 +357,7 @@
 		"Date of birth":"17/09/1996",
 		"Place of birth":"Evreux,Normandy",
 		"AboutFr":"",
-		"AboutEn":"Born in Moscow in 1995, Sirotkin’s love affair with motorsport began early when he started karting, aged just seven. By the time he was 11 he had secured his first karting championship and three years on – in 2010 – he made his single-seater debut.",
+		"AboutEn":"Born in Moscow in 1995, Sirotkin’s love affair with motorsport began early when he started karting, aged just seven. By the time he was 11 he had secured his first karting championship and three years on – in 2010 – he made his single-seater debut."
 	}	
 ]	
 	
