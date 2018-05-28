@@ -4,42 +4,42 @@
 		"driver":"Lewis Hamilton",
 		"nat":"GBR",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Mercedes/_jcr_content/teamCar.img.jpg",
-		"pts":"95"
+		"pts":"110"
 	},
 	{  
 		"pos":2,
 		"driver":"Sebastian Vettel",
 		"nat":"GER",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Ferrari/_jcr_content/teamCar.img.jpg",
-		"pts":"78"
+		"pts":"96"
 	},
 	{  
 		"pos":3,
-		"driver":"Valtteri Bottas",
-		"nat":"FIN",
-		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Mercedes/_jcr_content/teamCar.img.jpg",
-		"pts":"58"
+		"driver":"Daniel Ricciardo",
+		"nat":"AUS",
+		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Red-Bull/_jcr_content/teamCar.img.jpg",
+		"pts":"72"
 	},
 	{  
 		"pos":4,
+		"driver":"Valtteri Bottas",
+		"nat":"FIN",
+		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Mercedes/_jcr_content/teamCar.img.jpg",
+		"pts":"68"
+	},
+	{  
+		"pos":5,
 		"driver":"Kimi Räikkönen",
 		"nat":"FIN",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Ferrari/_jcr_content/teamCar.img.jpg",
 		"pts":"48"
 	},
 	{  
-		"pos":5,
-		"driver":"Daniel Ricciardo",
-		"nat":"AUS",
-		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Red-Bull/_jcr_content/teamCar.img.jpg",
-		"pts":"47"
-	},
-	{  
 		"pos":6,
 		"driver":"Max Verstappen",
 		"nat":"NED",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Red-Bull/_jcr_content/teamCar.img.jpg",
-		"pts":"33"
+		"pts":"35"
 	},
 	{  
 		"pos":7,
@@ -53,69 +53,70 @@
 		"driver":"Nico Hulkenberg",
 		"nat":"GER",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Renault/_jcr_content/teamCar.img.jpg",
-		"pts":"22"
+		"pts":"26"
 	},
 	{  
 		"pos":9,
+		"driver":"Carlos Sainz",
+		"nat":"ESP",
+		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Renault/_jcr_content/teamCar.img.jpg",
+		"pts":"20"
+	},
+	{  
+		"pos":10,
 		"driver":"Kevin Magnussen",
 		"nat":"DEN",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Haas/_jcr_content/teamCar.img.jpg",
 		"pts":"19"
 	},
 	{  
-		"pos":10,
-		"driver":"Carlos Sainz",
-		"nat":"ESP",
-		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Renault/_jcr_content/teamCar.img.jpg",
-		"pts":"19"
+		"pos":11,
+		"driver":"Pierre Gasly",
+		"nat":"FRA",
+		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Toro-Rosso/_jcr_content/teamCar.img.jpg",
+		"pts":"18"
 	},
 	{  
-		"pos":11,
+		"pos":12,
 		"driver":"Sergio Perez",
 		"nat":"MEX",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Force-India/_jcr_content/teamCar.img.jpg",
 		"pts":"17"
 	},
 	{  
-		"pos":12,
-		"driver":"Pierre Gasly",
+		"pos":13,
+		"driver":"Esteban Ocon",
 		"nat":"FRA",
-		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Toro-Rosso/_jcr_content/teamCar.img.jpg",
-		"pts":"12"
+		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Force-India/_jcr_content/teamCar.img.jpg",
+		"pts":"9"
 	},
 	{  
-		"pos":13,
+		"pos":14,
 		"driver":"Charles Leclerc",
 		"nat":"FRA",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Sauber/_jcr_content/teamCar.img.jpg",
 		"pts":"9"
-	},{  
-		"pos":14,
+	},
+	{  
+		"pos":15,
 		"driver":"Stoffel Vandoorne",
 		"nat":"BEL",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/McLaren/_jcr_content/teamCar.img.jpg",
 		"pts":"8"
 	},
 	{  
-		"pos":15,
+		"pos":16,
 		"driver":"Lance Stroll",
 		"nat":"CAN",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Williams/_jcr_content/teamCar.img.jpg",
 		"pts":"4"
 	},
 	{  
-		"pos":16,
+		"pos":17,
 		"driver":"Marcus Ericsson",
 		"nat":"SWE",
 		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Sauber/_jcr_content/teamCar.img.jpg",
 		"pts":"2"
-	},
-	{  
-		"pos":17,
-		"driver":"Esteban Ocon",
-		"nat":"FRA",
-		"car":"https://www.formula1.com/content/fom-website/en/championship/teams/Force-India/_jcr_content/teamCar.img.jpg",
-		"pts":"1"
 	},
 	{  
 		"pos":18,
